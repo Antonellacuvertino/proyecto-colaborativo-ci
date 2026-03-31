@@ -23,4 +23,4 @@ Para replicar este entorno de trabajo en tu máquina local, sigue estos pasos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/Antonellacuvertino/proyecto-colaborativo-ci.git](https://github.com/Antonellacuvertino/proyecto-colaborativo-ci.git)
+  " git clone [https://github.com/Antonellacuvertino/proyecto-colaborativo-ci.git](https://github.com/Antonellacuvertino/proyecto-colaborativo-ci.git)
